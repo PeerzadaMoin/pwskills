@@ -5,6 +5,6 @@ class lunch
          //some code
 }
 
-
+system.out.println(hello java lovers)
 
 }
